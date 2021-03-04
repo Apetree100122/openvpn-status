@@ -8,8 +8,8 @@ with open('README.rst') as readme:
 
 setup(
     name='openvpn-status',
-    version='0.2.1',
-    url='https://github.com/tonyseek/openvpn-status',
+    version='0.2.2',
+    url='https://github.com/hackthebox/openvpn-status',
     author='Jiangge Zhang',
     author_email='tonyseek@gmail.com',
     description='Parse OpenVPN status logs in Python',
